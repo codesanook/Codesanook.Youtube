@@ -1,16 +1,12 @@
-﻿.youtube-body{
-
+﻿.youtube-container {
+    position: relative;
+    margin: auto;
+    max-width: 600px;
 }
 
-.youtube-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
-    height: 0;
-    overflow: hidden;
-    text-align:center;
-    margin-left:10%;   
-    margin-right:10%;   
+.youtube-container .iframe-wrapper {
+    width: 100%;
+    padding-bottom: 120%;
 }
 
 .youtube-container iframe,

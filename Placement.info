@@ -1,6 +1,6 @@
 ﻿<!--http://docs.orchardproject.net/en/latest/Documentation/Understanding-placement-info/-->
 <Placement>
     <Match DisplayType="Detail">
-        <Place Parts_Youtube="Content:6"/>
+        <Place Parts_Youtube="Content:4"/>
     </Match>
 </Placement>
