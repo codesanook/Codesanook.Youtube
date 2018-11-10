@@ -3,6 +3,7 @@ using Orchard.Data.Migration;
 using CodeSanook.Common.Data;
 using Orchard.ContentManagement.MetaData;
 using Orchard.Core.Contents.Extensions;
+using CodeSanook.Youtube.Handlers;
 
 namespace CodeSanook.Youtube
 {
@@ -18,7 +19,6 @@ namespace CodeSanook.Youtube
             //create Youtube part
             ContentDefinitionManager.AlterPartDefinition(nameof(YouTubePart),
                 cfg => cfg.Attachable(true));
-
             return 1;
         }
     }

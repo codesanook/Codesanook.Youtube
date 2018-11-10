@@ -97,6 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Drivers\YoutubePartDriver.cs" />
+    <Compile Include="Handlers\IYoutubePartEventHandler.cs" />
     <Compile Include="Handlers\YoutubePartHandler.cs" />
     <Compile Include="Migrations.cs" />
     <Compile Include="Models\YouTubePart.cs" />
