@@ -5,5 +5,3 @@ Website: https://www.codesanook.com
 Version: 1.0
 OrchardVersion: 1.0
 Description: embedded Youtube video to your website
-Category: Web
-Dependencies:
