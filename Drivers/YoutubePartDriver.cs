@@ -1,7 +1,7 @@
 ﻿using Codesanook.Youtube.Models;
 using Orchard.ContentManagement.Drivers;
 
-namespace Fls.Web.Drivers
+namespace Codesanook.Youtube.Drivers
 {
     public class YoutubePartDriver : ContentPartDriver<YouTubePart>
     {
