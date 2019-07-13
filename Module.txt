@@ -1,7 +1,7 @@
-﻿Name: CodeSanook.Youtube
+﻿Name: Codesanook.Youtube
 AntiForgery: enabled
-Author: Aaron
-Website: http://codesanook.com
+Author: Codesanook Team
+Website: https://www.codesanook.com
 Version: 1.0
 OrchardVersion: 1.0
 Description: embedded Youtube video to your website

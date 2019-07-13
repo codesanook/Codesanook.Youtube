@@ -1,11 +1,11 @@
-﻿using CodeSanook.Youtube.Models;
+﻿using Codesanook.Youtube.Models;
 using Orchard.Data.Migration;
-using CodeSanook.Common.Data;
+using Codesanook.Common.Data;
 using Orchard.ContentManagement.MetaData;
 using Orchard.Core.Contents.Extensions;
-using CodeSanook.Youtube.Handlers;
+using Codesanook.Youtube.Handlers;
 
-namespace CodeSanook.Youtube
+namespace Codesanook.Youtube
 {
     public class Migrations : DataMigrationImpl
     {

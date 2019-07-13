@@ -1,10 +1,10 @@
-﻿using CodeSanook.Youtube.Handlers;
-using CodeSanook.Youtube.Models;
+﻿using Codesanook.Youtube.Handlers;
+using Codesanook.Youtube.Models;
 using Orchard.ContentManagement;
 using Orchard.ContentManagement.Handlers;
 using Orchard.Data;
 
-namespace CodeSanook.Authorization.Hanlders
+namespace Codesanook.Authorization.Hanlders
 {
     public class YoutubePartHandler: ContentHandler
     {

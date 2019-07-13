@@ -1,4 +1,4 @@
-﻿using CodeSanook.Youtube.Models;
+﻿using Codesanook.Youtube.Models;
 using Orchard.ContentManagement.Drivers;
 
 namespace CaptureTheFracture.Web.Drivers

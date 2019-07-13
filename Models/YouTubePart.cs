@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace CodeSanook.Youtube.Models
+namespace Codesanook.Youtube.Models
 {
     public class YouTubePart : ContentPart<YoutubePartRecord>
     {

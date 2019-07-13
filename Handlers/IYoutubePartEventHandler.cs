@@ -1,7 +1,7 @@
-﻿using CodeSanook.Youtube.Models;
+﻿using Codesanook.Youtube.Models;
 using Orchard.Events;
 
-namespace CodeSanook.Youtube.Handlers
+namespace Codesanook.Youtube.Handlers
 {
     public interface IYoutubePartEventHandler : IEventHandler
     {
