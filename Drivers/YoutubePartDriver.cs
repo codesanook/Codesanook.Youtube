@@ -1,7 +1,7 @@
 ﻿using Codesanook.Youtube.Models;
 using Orchard.ContentManagement.Drivers;
 
-namespace CaptureTheFracture.Web.Drivers
+namespace Fls.Web.Drivers
 {
     public class YoutubePartDriver : ContentPartDriver<YouTubePart>
     {
