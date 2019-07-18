@@ -1,18 +1,16 @@
 ﻿@{
-    Style.Include("style.css").AtHead();
+    Style.Include("youtube-style.css").AtHead();
 }
-<div class="youtube-body">
-    <h5 class="youtube-title">
-        <strong class="text-red">Please Read!</strong>
-        <strong>For iOS Device, follow the install guide below.</strong>
-    </h5>
-    <div class="youtube-container">
-        <div class="iframe-wrapper">
-            <iframe width="640"
-            height="360"
-            src="https://www.youtube.com/embed/@(Model.VideoId)"
-            frameborder="0"
-            allowfullscreen></iframe>
-        </div>
+<div class="video-title">
+    <strong class="highlight">Please Read!</strong>
+    <strong>For iOS Device, follow the install guide below.</strong>
+</div>
+<div class="video-content">
+    <div class="iframewrapper">
+        <iframe width="640"
+                height="360"
+                src="https://www.youtube.com/embed/@(Model.VideoId)"
+                frameborder="0"
+                allowfullscreen></iframe>
     </div>
 </div>
